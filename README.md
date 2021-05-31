@@ -1,3 +1,3 @@
 # World_Weather_Analysis
-WeatherPy with Python API-Module6
+## Purpose of the Analysis
 The purpose of this project is to improve PlanMyTrip App by adding some new features. By the added new features the travellers can obtain the weather description including the maximum temperature of their destination. The new fetaures allow travellers to see their destination route on the map and have access to information about the location details on the map via pop-up markers.
